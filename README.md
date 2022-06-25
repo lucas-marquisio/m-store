@@ -5,16 +5,7 @@
 
 _Projeto 100% desenvolvido por mim com o intuito de por em pratica meus conhecimentos._
 
-## Teste o projeto
 
-* [Ir para o site]()
-* [Baixe o app]()
-
-## Projeto completo
-
-* [Front-end / Site]()
-* [Back-end / API]().
-* [Mobile / Aplicativo]().
 
 ## Funcionalidades
 * Criar usuário
@@ -27,6 +18,16 @@ _Projeto 100% desenvolvido por mim com o intuito de por em pratica meus conhecim
 * [admin] Deletar produtos
 * [admin] Adicionar categorias 
 
+## Teste o projeto
+
+* [Ir para o site]()
+* [Baixe o app]()
+
+## Projeto completo
+
+* [Front-end / Site]()
+* [Back-end / API]().
+* [Mobile / Aplicativo]().
 
 ## Tecnologias usadas no projeto
 
