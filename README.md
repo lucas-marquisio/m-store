@@ -3,7 +3,7 @@
 
 ![Giff do projeto](project.gif)
 
-_Projeto 100% desenvolvido por mim com o intuito de por em pratica meus conhecimentos._
+_Projeto Loja online_
 
 
 
