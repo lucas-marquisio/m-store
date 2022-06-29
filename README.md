@@ -25,9 +25,8 @@ _Projeto 100% desenvolvido por mim com o intuito de por em pratica meus conhecim
 
 ## Projeto completo
 
-* [Front-end / Site]()
-* [Back-end / API]().
-* [Mobile / Aplicativo]().
+* [Back-end / API](https://github.com/lucas-marquisio/api-mstore).
+* [Mobile / Aplicativo](https://github.com/lucas-marquisio/mobile-mstore).
 
 ## Tecnologias usadas no projeto
 
