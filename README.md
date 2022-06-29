@@ -35,7 +35,7 @@ _Projeto Loja online_
 * [Vuex](https://vuex.vuejs.org/) _Para guardar dados temporariamente._
 * [Vue Router](https://router.vuejs.org/) _Para a criação e navegação das rotas._
 
-## Uso/Criação
+## Uso
 
 Requisitos 
 - [Nodejs](https://nodejs.org/en/) 
