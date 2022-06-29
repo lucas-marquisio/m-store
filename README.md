@@ -20,8 +20,8 @@ _Projeto Loja online_
 
 ## Teste o projeto
 
-* [Ir para o site]()
-* [Baixe o app]()
+* [Ir para o site](http://mstore.lucasmarquisio.xyz/)
+* [Baixe o app](https://www.mediafire.com/file/6cxkl8o586n4lrr/mstore.apk/file)
 
 ## Projeto completo
 
